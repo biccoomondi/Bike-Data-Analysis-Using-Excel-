@@ -1,4 +1,5 @@
 # Bike Sales Dashboard Analysis
+![BIKE SALES DASHBOARDn](https://github.com/biccoomondi/Bike-Data-Analysis-Using-Excel-/assets/170850731/5eb22bb7-7a18-49a5-b6c9-695d39a043e5)
 
 This project demonstrates a comprehensive analysis of bike sales data using Microsoft Excel. By leveraging Pivot Tables, Dashboards, and Slicers, this project provides an interactive and insightful view of various metrics related to bike sales, helping users explore and understand the data effectively.
 
